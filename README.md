@@ -2,10 +2,10 @@
 An Alfred workflow that push messages to WeChat.
 
 ## Overview
-- **Send message to WeChat in Alfred**;
+- **Send a message to WeChat in Alfred**;
 - ![](http://7xl3pd.com1.z0.glb.clouddn.com/2018-01-13-send-messsage-to-wechat.png)
 
-- **Receive message in WeCaht**;
+- **Receive a message in WeCaht**;
 - ![](http://7xl3pd.com1.z0.glb.clouddn.com/2018-01-13-wechat-receive-message.png)
 
 ## Principle
