@@ -17,8 +17,8 @@ An Alfred workflow that push messages to WeChat.
 1. Register a WeChat enterprise account; [Click me to register](https://work.weixin.qq.com/wework_admin/register_wx?from=loginpage)
 2. Login and get your **CorpId** in [here](https://work.weixin.qq.com/wework_admin/frame#profile);
 3. Create a customer app and get your **AgentId** and **Secret** in app detail;
-4. Download the **wx-message-pusher.alfredworkflow** file & double click it to install in Alfred;
+4. Download the [wx-message-pusher.alfredworkflow](https://github.com/archerda/wx-message-pusher-workflow/blob/master/wx-message-pusher.alfredworkflow) file & double click it to install in Alfred;
 5. Open Alfred settings -> Workflows, right click "wx-message-pusher" and select "Open in finder";
-6. Open "push.sh" and repleace YOUR_CORP_ID/YOUR_AGENT_ID/YOUR_APP_SECRET with yours which you have get in step 2 and step 3, save it;
+6. Open "push.sh" and repleace YOUR_CORP_ID/YOUR_AGENT_ID/YOUR_APP_SECRET with yours which you have got in step 2 and step 3, save it;
 7. Open Alfred and type "push TestMessage", your WeChat would receive a message if everything is right before;
 8. Enjoy it.
